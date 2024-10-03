@@ -6,7 +6,9 @@ Full Stack Dev
 
 I am a passionate developer, aiming to develop projects that combat real-world issues and a CS student at the University of Waterloo. 
 
-I have been coding for approximately 3 years now, and have a few cool projects and experiences to show for it which you can find on my website. I'm currently working on boosting the efficiency of CNN models to translate handwritten notes to digital text. I've worked with many industry-standard technologies in both back-end and front-end development such as React, Pytorch, TensorFlow, Tailwind and Node. See more languages, frameworks, libraries and tools I use below! Feel free to reach out to me via email, LinkedIn or my website!
+I have been coding for approximately 3 years now, and have a few cool projects and experiences to show for it which you can find on my website. I'm currently working on boosting the efficiency of CNN models to translate handwritten notes to digital text. 
+
+I've worked with many industry-standard technologies in both back-end and front-end development such as React, Pytorch, TensorFlow, Tailwind and Node. See more languages, frameworks, libraries and tools I use below! Feel free to reach out to me via email, LinkedIn or my website!
 
 *   🌍  I'm based in Toronto, Canada
 *   🖥️  See my portfolio at [Armaan's World](http://main.d15u68egeazevg.amplifyapp.com/)
