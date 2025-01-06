@@ -12,7 +12,7 @@ I've worked with many industry-standard technologies in both back-end and front-
 
 *   🌍  I'm based in Toronto, Canada
 *   🖥️  See my portfolio at [Armaan's World](http://main.d15u68egeazevg.amplifyapp.com/)
-*   ✉️  You can contact me at [armaan.dev06@gmail.com](mailto:armaan.dev06@gmail.com)
+*   ✉️  You can contact me at [a585gupt@uwaterloo.ca](mailto:a585gupt@uwaterloo.ca)
   
   
 <p align="left">
