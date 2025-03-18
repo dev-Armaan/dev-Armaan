@@ -11,7 +11,7 @@ I have been coding for approximately 3 years now, and have a few cool projects a
 I've worked with many industry-standard technologies in both back-end and front-end development such as React, Pytorch, TensorFlow, Tailwind and Node. See more languages, frameworks, libraries and tools I use below! Feel free to reach out to me via email, LinkedIn or my website!
 
 *   🌍  I'm based in Toronto, Canada
-*   🖥️  See my portfolio at [Armaan's World](http://main.d15u68egeazevg.amplifyapp.com/)
+*   🖥️  See my portfolio at [Armaan's World](http://armaan.world)
 *   ✉️  You can contact me at [a585gupt@uwaterloo.ca](mailto:a585gupt@uwaterloo.ca)
   
   
