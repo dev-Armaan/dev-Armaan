@@ -1,14 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Armaan Gupta
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Armaan Gupta
 ====================================================================================================================================
 
-Full Stack Dev
---------------
+i've been building software for 5 years, starting with simple web apps and slowly moving into machine learning, infrastructure, and systems work. the common thread isn't a specific domain, it's intentionally throwing myself into places where i'm learning faster than i'm comfortable with.
 
-I am a passionate developer, aiming to develop projects that combat real-world issues and a CS student at the University of Waterloo. 
-
-I have been coding for approximately 3 years now, and have a few cool projects and experiences to show for it which you can find on my website. I'm currently working on boosting the efficiency of CNN models to translate handwritten notes to digital text. 
-
-I've worked with many industry-standard technologies in both back-end and front-end development such as React, Pytorch, TensorFlow, Tailwind and Node. See more languages, frameworks, libraries and tools I use below! Feel free to reach out to me via email, LinkedIn or my website!
+i gravitate toward fast-paced teams and high-ownership roles: student engineering teams, federal research groups, early-stage startups, and my own company. i like being slightly in over my head, taking on ambiguous problems, and using that discomfort as fuel to grow, learn as much as i can, and keep leveling up how i think, build, and work with others.
 
 *   🌍  I'm based in Toronto, Canada
 *   🖥️  See my portfolio at [Armaan's World](http://armaan.world)
